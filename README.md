@@ -1,7 +1,7 @@
 binary-tree-code-snippets
 =========================
 
-Here are some useful code snippets in java using binary trees. 
+Here are some useful code snippets in java for binary trees. 
 
 These include:
 
